@@ -1,0 +1,19 @@
+# Embedded Build Artifacts
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+*.out
+*.map
+*.lst
+
+# IDE & Toolchain files
+build/
+.pio/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
